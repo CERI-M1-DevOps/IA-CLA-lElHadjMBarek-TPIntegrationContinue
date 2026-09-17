@@ -1,6 +1,6 @@
 name: Bonjour
 
-on: []
+on: [push]
 
 jobs:
   Salutations:
